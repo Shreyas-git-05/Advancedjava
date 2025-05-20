@@ -1,12 +1,11 @@
 # Advanced Java Assignment 
 
-*Subject Name*: Advanced Java  
-*Subject Code*: BCS613D  
-*Name*: Shreyas 
-*USN*: 4AL22CS158 
-*Sem/Section*: VI/C  
-*Total Programs*: 28  
-
+Subject Name: Advanced Java  
+Subject Code: BCS613D  
+Name: Shreyas  
+USN: 4AL22CS158  
+Sem/Section: VI/C  
+Total Programs: 28   
 
 
 ---

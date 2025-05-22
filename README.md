@@ -31,7 +31,7 @@ Total Programs: 28
    🔗 [Output Screenshot](https://github.com/Shreyas-git-05/Advancedjava/blob/main/Exp1-ListInterface/program4.png)
 
 5. Write a java program for getting different colors through ArrayList interface and delete nth  element from the ArrayList object  by  using remove by index
-   🔗 [Output Screenshot](Exp1-ListInterface/p5.png)
+   🔗 [Output Screenshot](https://github.com/Shreyas-git-05/Advancedjava/blob/main/Exp1-ListInterface/program5.png)
 
 ---
 

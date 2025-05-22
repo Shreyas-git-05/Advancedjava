@@ -38,7 +38,7 @@ Total Programs: 28
 ### 1c. Linked List Programs
 
 1. Write a Java program to iterate through all elements in a linked list starting at the specified position ( 2nd) using iterator ( hint : Iterator iteratorobj = listobj.listIterator(1))
-   🔗 [Output Screenshot](Exp1-ListInterface/p6.png)
+   🔗 [Output Screenshot](https://github.com/Shreyas-git-05/Advancedjava/blob/main/Exp1-ListInterface/program6.png)
 
 2. Write a Java program to iterate a linked list in reverse order (using objlist.descendingIterator())
    🔗 [Output Screenshot](Exp1-ListInterface/p7.png)

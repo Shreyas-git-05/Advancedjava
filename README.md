@@ -22,7 +22,7 @@ Total Programs: 28
    🔗 [Output Screenshot](https://github.com/Shreyas-git-05/Advancedjava/blob/main/Exp1-ListInterface/program1.png)
 
 2. Write a java program for getting different colors through ArrayList interface and remove the 2nd element and color "Blue" from the ArrayList
-   🔗 [Output Screenshot](Exp1-ListInterface/p2.png)
+   🔗 [Output Screenshot](https://github.com/Shreyas-git-05/Advancedjava/blob/main/Exp1-ListInterface/program2.png)
 
 3. Write a java program for getting different colors through ArrayList interface and  sort them using Collections.sort( ArrayListObj)
    🔗 [Output Screenshot](Exp1-ListInterface/p3.png)

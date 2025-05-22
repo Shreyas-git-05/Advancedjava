@@ -47,7 +47,7 @@ Total Programs: 28
    🔗 [Output Screenshot](https://github.com/Shreyas-git-05/Advancedjava/blob/main/Exp1-ListInterface/program8.png)
 
 4. Write a Java program to display elements and their positions in a linked list ( using l\_listobj.get(p) )
-   🔗 [Output Screenshot]([Exp1-ListInterface/p9.png](https://github.com/Shreyas-git-05/Advancedjava/blob/main/Exp1-ListInterface/program9.png))
+   🔗 [Output Screenshot](https://github.com/Shreyas-git-05/Advancedjava/blob/main/Exp1-ListInterface/program9.png)
 
 5. Write a Java program that swaps two elements ( first and third elements ) in a linked list  ( using Collections.swap(l\_list, 0, 2))
    🔗 [Output Screenshot](https://github.com/Shreyas-git-05/Advancedjava/blob/main/Exp1-ListInterface/program10.png)

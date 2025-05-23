@@ -23,7 +23,7 @@ public class CapitalizeFirst {
     }
 
     public static void main(String[] args) {
-        String str = "sumanth l cse ";
+        String str = "shreyas s puthran";
         System.out.println(str + ": " + capitalizeWords(str));
     }
 }
